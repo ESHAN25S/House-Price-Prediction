@@ -1,0 +1,11 @@
+Basic Data Exploration
+This step is performed to guage the overall data. The volume of data, the types of columns present in the data. Initial assessment of the data should be done to identify which columns are Quantitative, Categorical or Qualitative.
+
+This step helps to start the column rejection process. You must look at each column carefully and ask, does this column affect the values of the Target variable? For example in this case study, you will ask, does this column affect the price of the house? If the answer is a clear "No", then remove the column immediately from the data, otherwise keep the column for further analysis.
+
+There are four commands which are used for Basic data exploration in Python
+
+head() : This helps to see a few sample rows of the data
+info() : This provides the summarized information of the data
+describe() : This provides the descriptive statistical details of the data
+nunique(): This helps us to identify if a column is categorical or continuous

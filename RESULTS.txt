@@ -1,0 +1,10 @@
+RESULTS
+1.Decision Tree-Mean 4.189
+                Standard Deviation 0.84
+
+2.LinearRegression-Mean 4.22
+                    Standard Deviation 0.752
+3.Random Rain Forest-best one
+                      
+                    Mean 3.49
+                    Standard Deviation 0.76
